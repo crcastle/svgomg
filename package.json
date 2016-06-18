@@ -33,6 +33,7 @@
     "build": "gulp build --production",
     "serve": "gulp serve",
     "serve-no-sw": "gulp serve --disable-sw",
-    "test": "gulp build --production"
+    "test": "gulp build --production",
+    "start": "npm run serve"
   }
 }
